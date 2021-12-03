@@ -1,9 +1,5 @@
-# Website
-The website of TKE, what else!?
+# Archieved
 
-## Author
+---
 
-**TKE Website** © [TKE](https://github.com/TKE-eSports).  
-Authored and maintained by Jordaar & contributors.
-
-> GitHub [@Jordaar](https://github.com/Jordaar)
+## Refer [TKE-eSports/Website](https://github.com/TKE-eSports/Website)
